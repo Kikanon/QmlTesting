@@ -1,2 +1,0 @@
-# QmlTesting
-Random
