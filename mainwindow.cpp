@@ -38,3 +38,14 @@ void MainWindow::naloziDatoteko(){
        QTextCursor cursor = ui->textEdit->textCursor();
        cursor.movePosition(QTextCursor::Start, QTextCursor::MoveAnchor, 1);
 }
+
+/*
+Dialog za odpiranje datoteke
+#include <QFileDialog>
+void MainWindow::on_pushButton_clicked(){
+    QString file_name = QFileDialog::getOpenFileName(this,"Choose file", "C:/Desktop");
+}
+
+
+
+*/
