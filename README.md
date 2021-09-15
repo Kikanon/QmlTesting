@@ -4,4 +4,4 @@
 [Linux Dwl](https://doc.qt.io/qt-5/linux.html)<br>
 
 <br>
-Project to save usefull code snippets I find when learning Qml
+I have learnt Qt by now, all this is garbage and should be deleted
